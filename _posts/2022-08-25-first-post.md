@@ -24,4 +24,4 @@ int main(){
 }
 ```
 
-![wallhaven-x8rw6o_1920x1200](/../github/_posts/2021-03-30-first-post.assets/wallhaven-x8rw6o_1920x1200.png)
+![7b4fdf14f0448af9e647da6e6a1c563](/../github/_posts/2022-08-25-first-post.assets/7b4fdf14f0448af9e647da6e6a1c563.jpg)
