@@ -20,7 +20,7 @@ mermaid: true
 ```c++
 //代码片段
 int main(){
-  hello world;
+  hello world aaa;
 }
 ```
 
