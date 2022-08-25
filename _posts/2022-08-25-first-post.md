@@ -1,5 +1,5 @@
 ---
-title: 你好，世界！
+title: 我的第一篇博文
 date: 2022-03-26 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
@@ -26,6 +26,4 @@ int main(){
 }
 ```
 
-![image-20220327184021601](/assets/blog_res/2021-03-30-hello-world.assets/image-20220327184021601.png)
-
-![Screen Shot 2022-04-03 at 11.46.41 AM](/assets/blog_res/2021-03-30-hello-world.assets/Screen Shot 2022-04-03 at 11.46.41 AM.png)
+![wallhaven-x8rw6o_1920x1200](/../github/_posts/2021-03-30-first-post.assets/wallhaven-x8rw6o_1920x1200.png)
