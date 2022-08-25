@@ -24,4 +24,7 @@ int main(){
 }
 ```
 
-![](../assets/blog_res/2021-03-30-hello-world.assets/wallhaven-j5ky6p_1920x1200.png)
+![](../assets/blog_res/2021-03-30-hello-world.assets/Screen%20Shot%202022-04-03%20at%2011.46.41%20AM.png)
+
+![](../assets/blog_res/2021-03-30-hello-world.assets/image-20220327184021601.png)
+
