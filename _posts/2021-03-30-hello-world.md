@@ -2,7 +2,7 @@
 title: 你好，世界！
 date: 2022-03-26 10:34:00 +0800
 categories: [随笔]
-tags: [生活]
+tags: [龙珠]
 pin: true
 author: BruceZhou
 
@@ -23,3 +23,5 @@ int main(){
   hello world;
 }
 ```
+
+![](../assets/blog_res/2021-03-30-hello-world.assets/wallhaven-j5ky6p_1920x1200.png)
