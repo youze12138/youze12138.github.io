@@ -11,11 +11,9 @@ comments: true
 typora-root-url: ../../tomstillcoding.github.io
 math: false
 mermaid: true
-
-
 ---
 
-# 感谢关注～ 
+# 第一篇博文 
 
 
 这里可以放代码片段噢～
