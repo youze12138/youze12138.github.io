@@ -24,4 +24,4 @@ int main(){
 }
 ```
 
-![7b4fdf14f0448af9e647da6e6a1c563](/../github/_posts/2022-08-25-first-post.assets/7b4fdf14f0448af9e647da6e6a1c563.jpg)
+![wallhaven-x8ye3z](../assets/blog_res/2022-08-25-first-post.assets/wallhaven-x8ye3z.jpg)
