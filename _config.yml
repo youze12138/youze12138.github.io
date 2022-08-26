@@ -23,7 +23,8 @@ timezone:
 
 title: BruceZhou                         # the main title
 
-tagline: This is BruceZhou's blog～   # it will display as the sub-title
+#it will display as the sub-title
+tagline: This is BruceZhou's blog～   
 
 description: >-                        # used by seo meta and the atom feed
     这是通过Chirpy主题配置而成的
