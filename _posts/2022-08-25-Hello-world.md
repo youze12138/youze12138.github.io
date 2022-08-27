@@ -88,7 +88,5 @@ java Test:
 9).需要class,interface或enum: 多个一个大括号}
 ~~~
 
-![image-20220827203555080](/assets/blog_res/2022-08-25-Hello-world.assets/image-20220827203555080.png)
 
-![image-20220827203555080](/assets/blog_res/2022-08-25-Hello-world.assets/image-20220827203555080.png)
 
