@@ -47,18 +47,9 @@ document.write("<p>这是一个段落</p>");
 
 ### 常用对象
 
-~~~java
-参考：https://www.cnblogs.com/majj/p/13812983.html
-~~~
-
-
+[参考](https://www.cnblogs.com/majj/p/13812983.html)
 
 ### 再多就往这看
-
-~~~java
-https://www.runoob.com/js/js-tutorial.html
-
-~~~
 
 [有种你点我](https://www.runoob.com/js/js-tutorial.html)
 
