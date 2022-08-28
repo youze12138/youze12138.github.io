@@ -1,7 +1,7 @@
 ---
-title: HTML
+title: JavaScript
 date: 2022-08-28 11:00:00 +0800
-categories: [HTML]
+categories: [JavaScript]
 tags: [前端]
 pin: true
 author: BruceZhou
