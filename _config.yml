@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: zh-CN
+lang: zh-CN  # 语言时间布局安排
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
 prefer_datetime_locale: Asia/Shanghai
@@ -21,10 +21,10 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: BruceZhou                         # the main title
+title: BruceZhou                         # the main title  就是头像下边那个主标题
 
-#it will display as the sub-title
-tagline: This is BruceZhou's blog～   
+#it will display as the sub-title  这是主标题下边的介绍
+tagline: This is BruceZhou's blog～ 
 
 description: >-                        # used by seo meta and the atom feed
     这是通过Chirpy主题配置而成的
@@ -41,7 +41,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: BruceZhou
+  name: BruceZhou   #  博客最下面的作者名称 © 2022 BruceZhou. 保留部分权利。
   email: zhouyu_12138@163.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 # e.g. 'https://cdn.com'
 img_cdn:
 
-# the avatar on sidebar, support local or CORS resources
+# the avatar on sidebar, support local or CORS resources  头像路径配置
 avatar: ./assets/config/a.jpg
 
 # boolean type, the global switch for ToC in posts.
