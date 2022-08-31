@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: ''
+baseurl: 'youze12138.github.io'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -13,7 +13,7 @@ baseurl: ''
 lang: zh-CN  # 语言时间布局安排
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
-prefer_datetime_locale: Asia/Shanghai
+prefer_datetime_locale: Asia/ShangHai
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone:
@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
     这是通过Chirpy主题配置而成的
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://youze12138.github.io/'
 
 github:
   username: youze12138             # change to your github username
@@ -39,12 +39,12 @@ twitter:
   username: BruceZhou_            # change to your twitter username
 
 social:
-  # Change to your full name.
+  # Change to your full name.  改为你的全名。它将显示为文章的默认作者和Footer中的版权所有者
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: BruceZhou   #  博客最下面的作者名称 © 2022 BruceZhou. 保留部分权利。
   email: zhouyu_12138@163.com             # change to your email address
   links:
-    # The first element serves as the copyright owner's link
+    # The first element serves as the copyright owner's link  第一个元素用作版权所有者的链接
     - https://twitter.com/BruceZhou_     # change to your twitter homepage
     - https://github.com/youze12138       # change to your github homepage
     # Uncomment below to add more social links
@@ -86,7 +86,7 @@ img_cdn:
 # the avatar on sidebar, support local or CORS resources  头像路径配置
 avatar: ./assets/config/a.jpg
 
-# boolean type, the global switch for ToC in posts.
+# boolean type, the global switch for ToC in posts.  boolean类型，是post中ToC的全局开关。
 toc: true
 
 comments:
@@ -124,7 +124,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
-    # default_lang: console
+    # default_lang: console   默认lang:控制台
     span:
       line_numbers: false
     block:
@@ -138,14 +138,14 @@ collections:
 
 defaults:
   - scope:
-      path: ''          # An empty string here means all files in the project
+      path: ''          # An empty string here means all files in the project   此处的空字符串表示项目中的所有文件
       type: posts
     values:
       layout: post
       comments: true    # Enable comments in posts.
       toc: true         # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
-      # to update the code of all other post links in this project.
+      # to update the code of all other post links in this project.   不要修改下面的参数，除非您有足够的信心更新这个项目中所有其他帖子链接的代码。
       permalink: /posts/:title/
   - scope:
       path: _drafts
