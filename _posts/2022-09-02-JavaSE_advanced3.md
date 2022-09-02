@@ -1,7 +1,7 @@
 ---
-title: 面向对象-知识点
+title: 面向对象-内部类&Lambda
 date: 2022-09-02 14:34:00 +0800
-categories: [面向对象-知识点]
+categories: [面向对象-知识点1]
 tags: [后端]
 pin: true
 author: BruceZhou
@@ -13,9 +13,9 @@ math: false
 mermaid: truey
 ---
 
-# 面向对象-知识点
+# 面向对象-知识点1
 
-## 内部类 
+## 1.内部类 
 
 ### 1.1 内部类-成员内部类
 
@@ -54,7 +54,6 @@ class Outer {
 范例: Outer.Inner oi=new Outer().new Inter();
 
 ```java
-package com.itheima.test1;
 class Outer {
 
     private int a = 10;
@@ -147,8 +146,6 @@ class Outer {
   **示例代码：**
 
   ```java
-  package com.itheima.test6;
-  
   public class TestSwimming {
       public static void main(String[] args) {
           goSwimming(new Swimming() {
@@ -246,7 +243,7 @@ class Outer {
 
 当发现某个方法需要，接口或抽象类的子类对象，我们就可以传递一个匿名内部类过去，来简化传统的代码
 
-## Lambda表达式
+## 2.Lambda表达式
 
 ### 2.1 Lambda表达式初体验和函数式编程思想
 
@@ -287,8 +284,6 @@ class Outer {
 **示例代码**
 
 ```java
-package com.itheima.test2;
-
 public class TestLambda {
     /*
         Lambda表达式的使用前提
@@ -328,8 +323,6 @@ interface ShowHandler {
 ### 2.3  有参无返回值的Labmda表达式【应用】
 
 ```java
-package com.itheima.test3;
-
 public class StringHandlerDemo {
     /*
         1.首先存在一个接口（StringHandler）
@@ -363,9 +356,6 @@ interface StringHandler {
 ### 2.4Labmda表达式-无参数有返回值【应用】
 
 ```java
-package com.itheima.test4;
-import java.util.Random;
-
 public class RandomNumHandlerDemo {
     /*
         1. 首先存在一个接口（RandomNumHandler）
@@ -407,8 +397,6 @@ interface RandomNumHandler {
 ### 2.5Labmda表达式-带参数带返回值【应用】
 
 ```java
-package com.itheima.test5;
-
 public class CalculatorDemo {
     /*
         1. 首先存在一个接口（Calculator）
@@ -453,8 +441,6 @@ interface Calculator {
 代码演示
 
 ```java
-package com.itheima.test6;
-
 public class Test6 {
   public static void main(String[] args) {
         /*useInter( (double a, double b) -> {
