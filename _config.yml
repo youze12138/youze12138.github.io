@@ -24,7 +24,7 @@ timezone:
 title: BruceZhou                         # the main title  就是头像下边那个主标题
 
 #it will display as the sub-title  这是主标题下边的介绍
-tagline: 重启论支持者、八股文朗诵家、发际线保护协会核心成员、CV技术大师...
+tagline: 八股文朗诵家、CV技术大师、发际线保护协会核心成员、重启论支持者...
 
 description: >-                        # used by seo meta and the atom feed
     这是通过Chirpy主题配置而成的
